@@ -49,6 +49,8 @@
 
   写了点代码测试了一下, 还真的能获取到我在 handcash 钱包里面设置的昵称和头像.
 
-  ![paymail profile](../images/paymail_profile.gif)
+  ![paymail profile](/images/paymail_profile.gif)
 
   要获取地址的话还有点麻烦, 需要请求的时候附带签名. 类似于说明自己的意图, 才能获取到对方的地址, 确切说是锁定脚本.
+
+  就先写到这吧, 希望更多的钱包能支持 paymail.
