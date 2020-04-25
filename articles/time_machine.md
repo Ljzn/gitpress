@@ -36,4 +36,6 @@ TX1 = tx(lock(M, LT), TS)
 
 至此, 我们就得到一条可以自动单向穿梭时间的消息.
 
-未完待续..
+用图画表示可能会直观一些
+
+![tripper](./images/tripper.png)
