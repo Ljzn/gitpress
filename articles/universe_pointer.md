@@ -14,3 +14,10 @@ TXID 可以成为新的 URI (Uniform Resource Identifier) 吗? 我觉得不行, 
 
 ## 时光机的进度
 
+写好了文档在github： https://github.com/LongDelay/spec
+
+![简陋的时光机](./images/longdelay.gif)
+
+发送一笔时光机交易到 2021 年。不出意外的话，2021年1月1日这笔交易就会出现在链上。
+
+下一步就是让时光机接入 Twetch.app 。
